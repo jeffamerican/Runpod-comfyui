@@ -24,6 +24,7 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/240840"
     "https://civitai.com/api/download/models/245598"
     "https://civitai.com/api/download/models/128713"
+    "https://civitai.com/api/download/models/261539"
 )
 
 LORA_MODELS=(
@@ -34,6 +35,9 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/131991"
     "https://civitai.com/api/download/models/254267"
     "https://civitai.com/api/download/models/105889"
+    "https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/215615"
+    "https://civitai.com/api/download/models/96353"
 )
 
 VAE_MODELS=(
@@ -69,6 +73,7 @@ CONTROLNET_MODELS=(
     "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_seg-fp16.safetensors"
     "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors"
     "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
+    "https://civitai.com/api/download/models/215615"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
