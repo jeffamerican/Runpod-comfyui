@@ -10,7 +10,7 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/LucianoCirino/efficiency-nodes-comfyui"
     "https://github.com/Gourieff/comfyui-reactor-node"
-    
+    "https://github.com/mav-rik/facerestore_cf"
 )
 
 CHECKPOINT_MODELS=(
