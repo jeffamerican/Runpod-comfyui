@@ -29,7 +29,11 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/16576"
     "https://civitai.com/api/download/models/118945"
-     "https://civitai.com/api/download/models/180569"
+    "https://civitai.com/api/download/models/180569"
+    "https://civitai.com/api/download/models/87153"
+    "https://civitai.com/api/download/models/131991"
+    "https://civitai.com/api/download/models/254267"
+    "https://civitai.com/api/download/models/105889"
 )
 
 VAE_MODELS=(
@@ -43,7 +47,7 @@ ESRGAN_MODELS=(
     "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
     "https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
     "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x8.pth"
-    "https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth?download=true4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth"
+    "https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth"
     "https://huggingface.co/gemasai/8x_NMKD-Faces_160000_G/resolve/main/8x_NMKD-Faces_160000_G.pth"
 )
 
