@@ -11,6 +11,7 @@ NODES=(
     "https://github.com/LucianoCirino/efficiency-nodes-comfyui"
     "https://github.com/Gourieff/comfyui-reactor-node"
     "https://github.com/mav-rik/facerestore_cf"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
 )
 
 CHECKPOINT_MODELS=(
@@ -41,6 +42,9 @@ ESRGAN_MODELS=(
     "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x4.pth"
     "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
     "https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
+    "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x8.pth"
+    "https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth?download=true4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth"
+    "https://huggingface.co/gemasai/8x_NMKD-Faces_160000_G/resolve/main/8x_NMKD-Faces_160000_G.pth"
 )
 
 CONTROLNET_MODELS=(
