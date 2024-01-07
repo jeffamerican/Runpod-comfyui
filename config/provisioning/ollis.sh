@@ -39,6 +39,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/215615"
     "https://civitai.com/api/download/models/96353"
     "https://civitai.com/api/download/models/80113"
+    "https://civitai.com/api/download/models/146600"
 )
 
 VAE_MODELS=(
