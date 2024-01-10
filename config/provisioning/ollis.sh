@@ -8,7 +8,7 @@
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
-    "https://github.com/LucianoCirino/efficiency-nodes-comfyui"
+    "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/Gourieff/comfyui-reactor-node"
     "https://github.com/mav-rik/facerestore_cf"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
