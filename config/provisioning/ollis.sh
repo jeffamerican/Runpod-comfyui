@@ -25,6 +25,9 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/245598"
     "https://civitai.com/api/download/models/128713"
     "https://civitai.com/api/download/models/261539"
+    "https://civitai.com/api/download/models/293240"
+    "https://civitai.com/api/download/models/275491"
+    "https://civitai.com/api/download/models/272378"
 )
 
 LORA_MODELS=(
@@ -46,6 +49,7 @@ VAE_MODELS=(
     "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
+    "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/diffusion_pytorch_model.safetensors"
 )
 
 ESRGAN_MODELS=(
