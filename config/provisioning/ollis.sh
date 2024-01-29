@@ -21,13 +21,14 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     "https://civitai.com/api/download/models/128713"
     "https://civitai.com/api/download/models/143906"
-    "https://civitai.com/api/download/models/240840"
+    #"https://civitai.com/api/download/models/240840"
     "https://civitai.com/api/download/models/245598"
     "https://civitai.com/api/download/models/128713"
     "https://civitai.com/api/download/models/261539"
     "https://civitai.com/api/download/models/293240"
     "https://civitai.com/api/download/models/275491"
     "https://civitai.com/api/download/models/272378"
+    "https://civitai.com/api/download/models/288982"
 )
 
 LORA_MODELS=(
